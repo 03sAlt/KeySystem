@@ -7,5 +7,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/03sAlt/Console/main/.
 --- Check Whitelist
 loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/CheckUserID/main/README.md"))()
 
---- Discord Inviter
-loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/Discord/main/README.md"))()
